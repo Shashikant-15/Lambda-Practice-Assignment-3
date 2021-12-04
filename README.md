@@ -10,7 +10,7 @@ https://github.com/Shashikant-15/Lambda-Practice-Assignment-3.git
 
 * Sample Input:
 
-The lambda has too many string arguments.
+##### The lambda has too many string arguments.
 * Sample Output:
 
-#### THELAMBDAHASTOOMANYSTRINGARGUMENTS.
+##### THELAMBDAHASTOOMANYSTRINGARGUMENTS.
